@@ -3,7 +3,7 @@
 O BestTools é um plugin Spigot que seleciona automaticamente a melhor ferramenta para quebrar um determinado bloco, considerando que o mesmo bloco possa ser quebrado por diferentes ferramentas. Ele oferece uma solução prática e eficiente para os jogadores, otimizando a sua experiência de mineração e coleta de recursos.
 
 ## Download
-[Download BestTools](blob:https://github.com/baed8d3b-9beb-4db5-88a7-9c5fe4cb338c)
+> Download BestTools [BestTools](blob:https://github.com/baed8d3b-9beb-4db5-88a7-9c5fe4cb338c)
 
 ## Comandos
 
