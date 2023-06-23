@@ -1,0 +1,16 @@
+name: BestTools
+version: '${project.version}'
+main: com.mc.besttools.BestTools
+api-version: 1.19
+authors: [ ElderBR ]
+commands:
+  addBlock:
+    description: "Adiciona novo bloco para ferramenta"
+  removeBlock:
+    description: "Remover o bloco da lista da ferramenta"
+  activated:
+    description: "Ativa BestTools"
+  addadm:
+    description: "Adiciona administrador do plugin BestTools"
+  removeadm:
+    description: "Remove administrador do plugin BestTools"

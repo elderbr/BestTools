@@ -1,0 +1,34 @@
+#Sistema criado para ajudar a selecionar a melhor ferramenta para quebrar os blocos
+author: ElderBR
+Discord: ElderBR#5398
+github: https://github.com/elderbr
+
+#Versão do plugin
+version: 1.0
+
+# Para adicionar ou remover o item na lista, precisa segurar a ferramenta na mão e olhar para o bloco
+#Comandos
+Comandos:
+  - addBlock
+  - removeBlock
+  - activated
+  - addadm
+  - removeadm
+
+#Lista de administrador do plugin BestTools
+adm: []
+
+# Lista de materiais que podem ser quebrados pelo o picareta
+pickaxe: []
+
+# Lista de materiais que podem ser quebrados pelo o machado
+axe: []
+
+# Lista de materiais que podem ser quebrados pelo o pá
+shovel: []
+
+# Lista de materiais que podem ser quebrados pelo o enxada
+hoe: []
+
+# Lista de materiais que podem ser quebrados pela tesoura
+shears: []
